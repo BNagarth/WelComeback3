@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+a{
+    color: inherit;
+}
+body{
+    background-image: url(second\ pg\ bkg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    display: flex;
+    width: 100%;
+    height: 4rem;
+    border-bottom: 2px solid white;
+    justify-content: space-around;
+}
+
+.navbar li{
+    padding-left: 4rem;
+    padding-right: 1rem;
+align-self: center;
+color: black;
+background-color: #979FC8;
+width: 8rem;
+height: 3rem;
+border-radius: 2rem;
+}
+.links1 h3{
+    padding-top: 13px;
+    padding-bottom: 1rem;
+    
+}
+.links0 h3{
+    padding-top: 13px;
+    padding-bottom: 1rem;
+   
+}.links2 h3{
+    padding-top: 13px;
+    padding-bottom: 1rem;
+    
+}
+.links3 button{
+    padding-top: 13px;
+    padding-bottom: 1rem;
+}
+.links3 button{
+    background-color: #979FC8;
+    border: #979FC8;
+    font-size: 19px;
+    position: absolute;
+    right: 29rem;
+    height: 2rem;
+    cursor: pointer;
+}
+
+.searchbar :placeholder-shown{
+padding-left: 1rem;
+}
+input{
+    height: 35px;
+    width: 17rem;
+    border-radius: 11px;
+    border:white;
+    margin-top: 13px;
+}
+.searchbar i{
+right: 63px;
+position: absolute;
+margin-top: 23px;
+}
+
+.midpage{
+    display: flex;
+    
+}
+.card1{
+    padding-left: 5rem;
+    padding-right: 5rem;
+    box-shadow: 2px 0px 20px 2px black;
+    height: 82.5vh;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 1.4rem;
+    margin-top: 3rem;
+}
+.topic{
+    display: flex;
+}
+.profile{
+    margin-top: 2rem;
+    background-color: grey;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 5rem;
+}
+.profile i{
+    font-size: 6rem;
+    padding-top: 2rem;
+    padding-left: 2.4rem;
+}
+.username{
+    color: white;
+    margin-left: 2.3rem;
+    margin-top:10px;
+}
+.ok2 i{
+    margin-top: 5.7px;
+    font-size: 2rem;
+}
+.ok2 h2{
+    padding-top: 15px;
+    margin-left: 5px;
+}
+.ok2{
+    margin-top: 2rem;
+    color: white;
+}
+.subtopic{
+    color: white;
+    margin-top: 1.3rem;
+   
+}
+.subtopic i{
+    padding-right: 10px;
+}
+
+.otherhalf{
+    margin-left: 4rem ;
+    margin-top: 1.8rem;
+    color: white;
+    font-size: 2rem;
+}
+.notepads{
+    margin-top: 1.5rem;
+    display: flex;
+}
+
+.notepad1{
+    height: 18rem;
+    width: 15rem;
+    border-radius: 2rem;
+    background-color: #D3DBDD;
+}
+
+.notepad1 i{
+    margin-top: 4.5rem;
+    margin-left: 4rem;
+    font-size: 8rem;
+    color: #000000;
+}
+.notepad1 i:hover{
+    color: yellow;
+    transition: 0.6s;
+
+}
+.notepad2{
+    background-color: #D3DBDD;
+    height: 18rem;
+    width: 15rem;
+    border-radius: 2rem;
+    margin-left: 3rem;
+}
+
+.notepad3{
+    background-color: #D3DBDD;
+    height: 18rem;
+    width: 15rem;
+    border-radius: 2rem;
+    margin-left: 3rem;
+}
+
+.notepad4{
+    background-color: #D3DBDD;
+    height: 18rem;
+    width: 15rem;
+    border-radius: 2rem;
+    margin-left: 3rem;
+}
+.notepad2 h5{
+    margin-top: 18.5rem;
+    margin-left: 2.7rem;
+}
+.notepad3 h5{
+    margin-top: 18.5rem;
+    margin-left: 2.7rem;
+}
+.notepad4 h5{
+    margin-top: 18.5rem;
+    margin-left: 2.7rem;
+}
